@@ -1,4 +1,4 @@
-# ATM-Management-System-Object-Oriented-Sstem-C-Language-
+# ATM-Management-System-Object-Oriented-Sstem-C++ language
 #include<iostream>
 #include<string>
 #include<fstream>
